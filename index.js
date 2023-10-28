@@ -25,5 +25,17 @@ const division = (r,t)=> {
 }
 console.log(division(45,5));
 
+/* creation eet  maipulation d' un tableau*/
+
+ const table = ["nouha",13344,"barro",'kone',"fall","baye"];
+ console.log(table.join());
+
+ /* Creation de la boucle  forEach*/
+
+const element = ["barr","daff","drame","doudou"];
+element.forEach((item)=>{
+ console.log(item);
+ console.log(element.includes("cheikh"));
+})
 
 
