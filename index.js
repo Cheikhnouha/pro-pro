@@ -18,5 +18,12 @@ const mult = (g,k) => {
 }
 console.log(mult(34,54));
 
+/* Calcul de la division*/
+const division = (r,t)=> {
+ return r/t;
+
+}
+console.log(division(45,5));
+
 
 
